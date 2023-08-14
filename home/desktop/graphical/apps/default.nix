@@ -11,5 +11,6 @@
     slack
     musescore
     zoom
+    cider
   ];
 }
