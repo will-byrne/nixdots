@@ -4,7 +4,7 @@
   				# info title
   				# info underline
   				prin ""
-  				prin "$(color 1)R E D Y F"
+  				prin "$(color 1)L U N A"
   				prin _____________________
   				info "" distro
   				info "" model

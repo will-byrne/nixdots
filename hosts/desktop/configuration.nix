@@ -140,7 +140,7 @@
       xwayland = {
         enable = true;
       };
-      nvidiaPatches = true;
+      enableNvidiaPatches = true;
     };
   };
 
@@ -304,6 +304,7 @@
     wget
     playerctl
     xdg-desktop-portal-gtk
+    xdg-desktop-portal-wlr
   ];
 
   environment.sessionVariables.DEFAULT_BROWSER = "${pkgs.google-chrome}/bin/google-chrome-stable";
