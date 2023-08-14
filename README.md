@@ -34,5 +34,5 @@
 
 This is a fork of redyfs [nixdots](http://github.com/redyf/nixdots) repo and many thanks to them for answering some questions when I started using it.
 
-I will probably either unlink the repos now or port this to a new dots repo when I have to time as they have diverged quite quickly.
+I will probably either unlink the repos soon or port this to a new dots repo when I have to time as it has diverged quite quickly.
 
